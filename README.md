@@ -1,4 +1,4 @@
-# _While Loop_
+# _Refactor Challenge with a For Loop_
 
 #### _This short program demonstrates one possible way to refactor a long block of code by using a for loop. August 2020_
 
